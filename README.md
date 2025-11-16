@@ -19,4 +19,4 @@ El diseño utiliza:
 - Control por reloj, permitiendo movimientos sincronizados y estados intermedios correctos.
 - Módulos estructurados para cada parte del circuito, facilitando entender qué componente aplica cada regla del juego.
 
-- <img width="919" height="514" alt="image" src="https://github.com/user-attachments/assets/f45ac555-4dd4-4cbb-9681-cbf44316bdd8" />
+<img width="919" height="514" alt="image" src="https://github.com/user-attachments/assets/f45ac555-4dd4-4cbb-9681-cbf44316bdd8" />
